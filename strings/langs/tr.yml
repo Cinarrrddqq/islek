@@ -68,7 +68,7 @@ admin_27 : "Tekrar oynatma devre dışı bırakıldı"
 
 # Başlat
 start_1 : "Beni de içine alarak teşekkürler. {0}.\n{1} yaşıyor.\n\nHerhangi bir yardım veya yardım için destek grubumuza ve kanalımıza göz atın."
-start_2 : "Merhaba, benim adım. {0}.\n\nBazı kullanışlı özelliklere sahip bir telgraf akış botuyum. Youtube, Spotify, Resso, AppleMusic, Soundcloud vb..\n\nBeni gruplarınıza eklemeden çekinmeyin."
+start_2 : "Salam Mənim adım. {0}.\n\nMən Bir çox özəllikləri olan botam məni qrupa əlavə edib səs yönətim yetkisi verməyiniz kifayətdi ."
 start_3 : "HoşGeldiniz {0}\n\nİhtiyacım yok. **yönetici izni** ( istenene kadar ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Sahip[{1}] sohbetinize yeni katıldı."
 start_5 : "Üyesi {0}'s Sudo Kullanıcısı[{1}] sohbetinize yeni katıldı."
